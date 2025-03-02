@@ -8,5 +8,4 @@
 
  **📫 Let's Connect**  
 📧 Email: [amilkhan1457@gmail.com](mailto\:amilkhan1457@gmail.com)\
-🔗 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)\
 📊 Kaggle: [https://www.kaggle.com/mohammadamilkhan](https://www.kaggle.com/mohammadamilkhan)
