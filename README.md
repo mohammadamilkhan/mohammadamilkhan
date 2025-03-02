@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Ami Khan
+# 👋 Hi, I'm Mohammad Amil Khan
 
 💡 Data Analyst | Passionate about Data & Insights\
 📊 Exploring the world of Data Analytics with Excel, Python, SQL, and PowerBI\
