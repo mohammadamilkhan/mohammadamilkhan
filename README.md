@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Ami Khan
 
-<!--
-**Mohammad-Amil-Khan/Mohammad-Amil-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Data Analyst | Passionate about Data & Insights\
+📊 Exploring the world of Data Analytics with Excel, Python, SQL, and PowerBI\
+📈 Turning raw data into meaningful insights
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Fresher in Data Analytics with a strong foundation in data manipulation, visualization, and statistical analysis.\
+📊 Skilled in Python (Pandas, NumPy), SQL, and Excel for data-driven decision-making.\
+📊 Created an **Airbnb Dashboard in Tableau** to analyze booking trends.\
+📊 Developed an **Excel Dashboard** for data reporting and visualization.
+
+## 🔍 What I'm Working On
+
+🔹 Enhancing my skills in **Machine Learning & Power BI**\
+🔹 Working on real-world **Data Analytics projects**\
+
+
+## 📫 Let's Connect
+
+📧 Email: [amilkhan1457@gmail.com](mailto\:amilkhan1457@gmail.com)\
+🔗 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)\
+📊 Kaggle: [https://www.kaggle.com/mohammadamilkhan](https://www.kaggle.com/mohammadamilkhan)
